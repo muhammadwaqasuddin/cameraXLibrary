@@ -92,7 +92,7 @@ dependencies {
     implementation("androidx.hilt:hilt-work:1.2.0")
 
     // REQUIRED for Android 12+ PendingIntent crash fix
-    implementation("androidx.work:work-runtime-ktx:2.9.0")
+    implementation("androidx.work:work-runtime-ktx:2.7.1")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
